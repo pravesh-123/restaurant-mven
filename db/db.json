@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Peter",
+      "email": "Peter@test.com",
+      "password": "test1234",
+      "id": 1
+    },
+    {
+      "name": "Pravesh",
+      "email": "pravesh@test.com",
+      "password": "test1234",
+      "id": 2
+    },
+    {
+      "name": "Pranay",
+      "email": "pranay@test.com",
+      "password": "test1234",
+      "id": 3
+    },
+    {
+      "name": "Bruce",
+      "email": "bruce@test.com",
+      "password": "test1234",
+      "id": 4
+    },
+    {
+      "name": "Tony",
+      "email": "tony@test.com",
+      "password": "test1234",
+      "id": 5
+    },
+    {
+      "name": "Ram",
+      "email": "ram@test.com",
+      "password": "test1234",
+      "id": 6
+    },
+    {
+      "name": "Sachin",
+      "email": "sachin@test.com",
+      "password": "test1234",
+      "id": 7
+    },
+    {
+      "name": "Mohan",
+      "email": "mohan@test.com",
+      "password": "test1234",
+      "id": 8
+    },
+    {
+      "name": "Ashish",
+      "email": "ashish@test.com",
+      "password": "test1234",
+      "id": 9
+    },
+    {
+      "name": "pravesh",
+      "email": "praveshdwivedi999@gmail.com",
+      "password": "pr@ve$h999",
+      "id": 10
+    },
+    {
+      "name": "Mohan",
+      "email": "mohan@test.com",
+      "password": "test1234",
+      "id": 16
+    },
+    {
+      "name": "Rohan",
+      "email": "rohan@test.com",
+      "password": "test1234",
+      "id": 17
+    },
+    {
+      "name": "john",
+      "email": "john@test.com",
+      "password": "test1234",
+      "id": 18
+    },
+    {
+      "name": "rgrr",
+      "email": "t4t4",
+      "password": "4t4",
+      "id": 21
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "KFC",
+      "address": "Lucknow sector 50",
+      "contact": 1110656743,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "address": "Lucknow Gomti Nagar",
+      "contact": 1110656743
+    },
+    {
+      "name": "Dominos",
+      "address": "Lucknow Sahara Mall",
+      "contact": 1110656743,
+      "id": 3
+    }
+  ]
+}
